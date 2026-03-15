@@ -53,12 +53,19 @@ Proje, Unreal Engine'in yeni Enhanced Input System mimarisini kullanmaktadır. V
 
 🚜 Araç Kontrolleri (Sürücü)
 Tuş	İşlem
+
 W / S	Gaz / Fren & Geri Vites
+
 A / D	Direksiyon (Sağ / Sol)
+
 Space	El Freni
 
 Kule Kontrolleri (Nişancı)
+
 Tuş	İşlem
+
 W / S Namlu Elevasyonu
+
 A / D Kule Dönüşü
+
 Mouse L / Ctrl	Ana Topu Ateşle (Fire)
