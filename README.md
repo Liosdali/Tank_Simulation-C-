@@ -37,7 +37,28 @@ Fizik
 📦 Kurulum ve Çalıştırma
 
     Projeyi bilgisayarınıza indirin veya klonlayın: git clone [REPO_LINK]
+    
     Simulation.uproject dosyasına sağ tıklayıp "Generate Visual Studio project files" seçeneğini seçin.
+    
     .sln dosyasını açın ve projeyi Development Editor modunda derleyin.
+    
     Unreal Editor açıldığında Maps/Map_MainMenu haritasını başlatın.
+    
     Multiplayer Testi İçin: Play ayarlarından "Number of Players" değerini 2 yapın ve "Net Mode" olarak "Play As Listen Server" seçin.
+
+
+🎮 Kontroller (Input Mapping)
+
+Proje, Unreal Engine'in yeni Enhanced Input System mimarisini kullanmaktadır. Varsayılan kontrol şeması aşağıdadır:
+
+🚜 Araç Kontrolleri (Sürücü)
+Tuş	İşlem
+W / S	Gaz / Fren & Geri Vites
+A / D	Direksiyon (Sağ / Sol)
+Space	El Freni
+
+Kule Kontrolleri (Nişancı)
+Tuş	İşlem
+W / S Namlu Elevasyonu
+A / D Kule Dönüşü
+Mouse L / Ctrl	Ana Topu Ateşle (Fire)
