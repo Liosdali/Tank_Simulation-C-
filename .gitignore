@@ -1,0 +1,14 @@
+# Visual Studio
+.vs/
+*.sln
+*.suo
+*.db
+
+# Unreal Engine
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+Build/
+*.uproject.local
+*.ddc
