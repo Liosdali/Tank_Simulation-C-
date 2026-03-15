@@ -24,4 +24,12 @@ public:
 
     UFUNCTION(Server, Reliable)
     void Server_RequestRoleSwitch();
+
+    // Sunucu kurma (Host)
+    UFUNCTION(BlueprintCallable, Category = "Multiplayer")
+    void HostGame(FString MapName);
+
+    // Sunucuya katýlma (Join)
+    UFUNCTION(BlueprintCallable, Category = "Multiplayer")
+    void JoinGame(FString IPAddress);
 };
