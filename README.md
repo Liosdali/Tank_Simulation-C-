@@ -21,7 +21,7 @@ Bu proje, bir teknik görev kapsamında Unreal Engine 5 ve C++ kullanılarak gel
 
     Dinamik Süspansiyon: Araç tekerlekleri zeminle fiziksel etkileşime girer, engebeli arazilerde gerçekçi bir tepki verir.
 
-    Gelişmiş Kamera: Fare tekerleği ile 1. şahıs (kokpit) ve 3. şahıs (takip) kameraları arasında yumuşak geçiş.
+    Oluşturulan Projectilelar fizik tabanlı çalışmakta olup balistik hareket etmektedirler.
 
     Replication: Tüm hareketler ve animasyonlar (MovementComponent ve Variable Replication ile) gecikmesiz şekilde tüm istemcilerde senkronizedir.
 
@@ -31,7 +31,6 @@ Giriş Sistemi	Enhanced Input Component (C++)
 Ağ Yapısı	RPC (Client-to-Server) & Variable Replication
 Arayüz	UMG & C++ Controller Integration
 Fizik	Chaos Vehicle Physics Engine
-Fizik 
 
 
 📦 Kurulum ve Çalıştırma
