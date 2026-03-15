@@ -60,6 +60,8 @@ A / D ---->	Direksiyon (Sağ / Sol)
 
 Space ---->	El Freni
 
+C ----> FirstPerson/ThirdPerson Kamera geçişi
+
 Kule Kontrolleri (Nişancı)
 
 Tuş	İşlem
